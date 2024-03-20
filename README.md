@@ -1,5 +1,6 @@
-# Exercise-05a-Movement
+# Exercise-05b-ProceduralGeneration
 
+An example of a maze generating algortihm, mostly coded by Prof. Mishler. I edited the prefabs to make the maze functional.
 
 ## Implementation
 
@@ -7,5 +8,8 @@
 
 ## Future Development
 
+First Person Shooty
+
 ## Created by
-Nathan Mishler
+
+Levi Coffing, Master of Reality
